@@ -1,0 +1,15 @@
+.form{
+    background-color: rgb(173, 0, 253);
+    height: 70vh;
+    width: 60vh;
+    margin: auto;
+    padding: 70px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: rgb(174, 90, 223) solid 10px;
+    
+}
+body{
+    background-image:url( img/google-forms-como-funciona.png);
+    background-size: cover;
+}
