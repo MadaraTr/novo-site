@@ -12,3 +12,7 @@ body{
     background-image:url( img/google-forms-como-funciona.png);
     background-size: cover;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
